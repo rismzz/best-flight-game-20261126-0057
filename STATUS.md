@@ -66,8 +66,8 @@ staging screenshot. `main.ts` ditulis dalam 2 pesan (write + edit revisi).
 ## Repo GitHub
 
 - Repo: https://github.com/rismzz/best-flight-game-20261126-0057
-- Commit final: **2ce96aee70367f68745fcab372f2b32f2b87d6ec** (branch main,
-  sudah push).
+- Commit final: **2c99b6c90a594051eadc74203029fb183e70fd9d** (branch main,
+  sudah push; commit game 2ce96aee + STATUS.md).
 - Repo dibuat 2026-11-26T01:42:34Z — setelah kompetisi dibuka
   (2026-11-26T00:57:00Z). Publik.
 - About terverifikasi: homepage
